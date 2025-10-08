@@ -43,11 +43,11 @@ class Employee(models.Model):
 
 class EmployeeAdmin(admin.ModelAdmin):
     list_display = ('eid', 'name', 'salary', 'age', 'email')
-
+```
 
 ## OUTPUT
 
-
+![alt text](<Screenshot (46).png>)
 
 ## RESULT
 Thus the program for creating car inventory database database using ORM hass been executed successfully

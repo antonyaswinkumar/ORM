@@ -48,10 +48,6 @@ class EmployeeAdmin(admin.ModelAdmin):
 ## OUTPUT
 
 
-<img width="1920" height="1080" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/3ec94817-94e7-4a4a-83e5-894a2fa6856f" />
-
-
-<img width="1920" height="1080" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/c5fa8bc9-f983-46bb-9099-f6fea64bf998" />
 
 ## RESULT
 Thus the program for creating car inventory database database using ORM hass been executed successfully
